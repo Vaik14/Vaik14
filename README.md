@@ -1,5 +1,12 @@
-# 💫 About Me:
-I'm an avid Smart Contract/Blockchain Software Engineer.
+# Hi, I'm Vaibhav Kumar 👋:
+I'm a passionate Engineer with a deep love for technology and innovation. 
+
+
+🔧 Technologies & Skills:
+Blockchain (Ethereum, BSC, Polygon, Tron,etc.)
+Smart Contracts (Solidity, web3.js,ethers.js)
+Programming Languages (Solidity & Javascript)
+Leadership and Effective Communication
 
 
 ## 🌐 Socials:
